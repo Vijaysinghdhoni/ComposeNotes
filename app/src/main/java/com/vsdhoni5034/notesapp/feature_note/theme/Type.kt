@@ -1,4 +1,4 @@
-package com.vsdhoni5034.notesapp.ui.theme
+package com.vsdhoni5034.notesapp.feature_note.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
