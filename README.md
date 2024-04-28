@@ -11,3 +11,4 @@ A Notes app build using android recommend UI toolkit jetpack compose and various
 - **Clean architecture**
 - **Rooom Database**
 - **Jetpack Compose Navigation Components**
+- **day-night theming**
