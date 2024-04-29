@@ -82,8 +82,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//Recipe app SS push in github
-//make repo for notes app in github
+
 //splash screen
 
 //@Composable
