@@ -9,6 +9,6 @@ A Notes app build using android recommend UI toolkit jetpack compose and various
 - **Hilt for Dependency Injection**
 - **Kotlin Coroutines and Flows**
 - **Clean architecture**
-- **Rooom Database**
+- **Room Database**
 - **Jetpack Compose Navigation Components**
 - **day-night theming**
